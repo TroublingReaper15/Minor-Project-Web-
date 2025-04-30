@@ -22,9 +22,9 @@ Installation
 
 2. Create and activate a virtual environment (optional but recommended):
   python -m venv env
-  # On Windows
+  (On Windows)
   env\Scripts\activate
-  # On Unix or MacOS
+  (On Unix or MacOS)
   source env/bin/activate
 
 3. Install the required packages:
